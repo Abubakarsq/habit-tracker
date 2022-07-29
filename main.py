@@ -2,8 +2,8 @@ import requests
 from datetime import datetime
 import os
 
-APP_ID = "2ff7e7e7"
-API_KEY = "270be9530bc6fca36dcffa9c41dc2fa6"
+APP_ID = "2ff77"
+API_KEY = "270be95a36dcffa9c41dc2fa6"
 
 EX_ENDPOINT = " https://trackapi.nutritionix.com/v2/natural/exercise"
 sheet_endpoint = "https://api.sheety.co/f50e4ea2e3849db065f4e33dca7b951c/workoutTracking/workouts"
